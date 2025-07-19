@@ -10,7 +10,7 @@ EchoVision captures an image using the ESP32-CAM, sends it to a local Flask serv
 
 ## 🌐 System Architecture
 
-
+![System Architecture](./A_flowchart-style_diagram_illustrates_the_EchoVisi.png)
 
 
 ---
